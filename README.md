@@ -16,3 +16,9 @@ Extract data from CSV &amp; HTML into EID &amp; Patent number
 ##Convertir en CSV 
 
 ![](http://i.imgur.com/sLjkCFD.png)
+
+
+L'intégralité de la chaine de caractère est déjà copié et est prête à être collé dans Scopus/SciVal.
+
+# Patent Number from Scopus :
+
